@@ -4,7 +4,7 @@
         <item name="colorPrimary">@color/sandyBrown</item>
         <item name="colorPrimaryVariant">@color/antiqueWhite</item>
         <item name="colorOnPrimary">@color/white</item>
-        <item name="colorSecondaryContainer">#ECFFC7</item>
+        <item name="colorSecondaryContainer">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/midnightGreen</item>
         <item name="colorSecondaryVariant">@color/midnightGreen</item>

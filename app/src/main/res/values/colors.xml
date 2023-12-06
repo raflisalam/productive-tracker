@@ -4,7 +4,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="sandyBrown">#FFAE55</color>
     <color name="midnightGreen">#1B4756</color>
-    <color name="payneGray">#385E6C</color>
+    <color name="payneGray">#D2F3FF</color>
     <color name="antiqueWhite">#FFEEDE</color>
     <color name="silver">#BFBFBF</color>
+    <color name="background">#FAFAFA</color>
 </resources>
